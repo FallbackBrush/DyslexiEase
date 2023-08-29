@@ -16,5 +16,11 @@
 ### Execution
 
 1. Create conda env using :
-   `conda env create -f environment.yml` 
-2. Activate 'capstone' environment and run app.py 
+   `conda env create -f environment.yml`
+2. Activate 'capstone' environment and run app.py
+
+### Utilities
+
+1. Database module ( not yet integrated )
+2. Frame extractor
+3. Frame stitching
